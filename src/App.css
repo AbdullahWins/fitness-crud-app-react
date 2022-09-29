@@ -1,0 +1,19 @@
+.App {
+  background-color: beige;
+  padding: 10px 50px;
+}
+
+.body {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+@media only screen and (max-width: 768px) {
+  .App {
+    padding: 10px;
+  }
+  .body {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Push Up",
+    "details": "Push up is very important for everyone. It keeps your mussles strong",
+    "age": "10-60",
+    "time": "15 seconds",
+    "image": "https://images.unsplash.com/photo-1594737626072-90dc274bc2bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Lunges",
+    "details": "Challenging your balance is an essential part of a well-rounded exercise routine. functional movement while also increasing strength in your legs and glutes.",
+    "age": "22-56",
+    "time": "20 seconds",
+    "image": "https://images.unsplash.com/photo-1621787279751-2baabc22d976?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Squats",
+    "details": "Compound exercises are perfect for busy bees as they work several parts of your body at once. it also engages your upper back and core.",
+    "age": "14-55",
+    "time": "10 seconds",
+    "image": "https://images.unsplash.com/photo-1661678730729-55e2856a8e76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=527&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Dumbbell rows",
+    "details": "Dumbbell rows are also another compound exercise that strengthens multiple muscles in your upper body. Choose a moderate-weight squeezing at the top of the movement.",
+    "age": "10-20",
+    "time": "25 seconds",
+    "image": "https://images.unsplash.com/photo-1661678730712-13b11a07ec5a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=630&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Burpees",
+    "details": "An exercise we love to hate, burpees are a super-effective, whole-body move that provides great bang for your buck for cardiovascular endurance and muscle strength.",
+    "age": "22-33",
+    "time": "45 seconds",
+    "image": "https://images.unsplash.com/photo-1661680684355-5d0142a936c4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+  },
+  {
+    "id": "6",
+    "name": "Side planks",
+    "details": "A healthy body requires a strong core at its foundation, so don’t neglect core-specific moves like the side plank.",
+    "age": "18-40",
+    "time": "50 seconds",
+    "image": "https://images.unsplash.com/photo-1661680684233-668545d2662e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=556&q=80"
+  }
+]

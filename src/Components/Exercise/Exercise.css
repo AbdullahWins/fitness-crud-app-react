@@ -1,0 +1,33 @@
+.exercise {
+  background-color: white;
+  width: 300px;
+  height: 500px;
+  border-radius: 15px;
+  position: relative;
+}
+
+.exercise img {
+  width: 300px;
+  height: 200px;
+  border-radius: 15px 15px 0px 0px;
+}
+
+.padding {
+  padding: 5px;
+}
+
+.exercise button {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  padding: 10px 0px;
+  border: none;
+  border-radius: 0px 0px 15px 15px;
+  background-color: wheat;
+}
+
+.exercise button:hover {
+  background-color: blueviolet;
+}
+
+

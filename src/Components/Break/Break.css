@@ -1,0 +1,51 @@
+.break p {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.btn-break {
+  padding: 15px;
+  margin: 10px;
+  border: 1px solid white;
+  background-color: white;
+  border-radius: 50%;
+}
+
+.btn-break:hover {
+  background-color: blueviolet;
+}
+
+.break-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: wheat;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.time-show {
+  margin: 20px 0px;
+  background-color: wheat;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.selected {
+  font-weight: 600;
+  background-color: blue;
+}
+
+.complete-btn {
+  font-size: 1.3rem;
+  font-weight: 500;
+  border: none;
+  border-radius: 15px;
+  padding: 20px;
+  width: 100%;
+  background-color: violet;
+}
+
+.complete-btn:hover {
+  background-color: blue;
+}
